@@ -1,4 +1,9 @@
 [0m[[0mdebug[0m] [0mCopy resource mappings: [0m
-[0m[[0mdebug[0m] [0m	(/home/knoldus/PlayAssignment2/EmployeePortal/conf/logback.xml,/home/knoldus/PlayAssignment2/EmployeePortal/target/scala-2.11/classes/logback.xml)[0m
-[0m[[0mdebug[0m] [0m	(/home/knoldus/PlayAssignment2/EmployeePortal/conf/application.conf,/home/knoldus/PlayAssignment2/EmployeePortal/target/scala-2.11/classes/application.conf)[0m
-[0m[[0mdebug[0m] [0m	(/home/knoldus/PlayAssignment2/EmployeePortal/conf/routes,/home/knoldus/PlayAssignment2/EmployeePortal/target/scala-2.11/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus/trial/TraineeAppRepo/TraineeAppRepo/myFirstApp/conf/logback.xml,/home/knoldus/trial/TraineeAppRepo/TraineeAppRepo/myFirstApp/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus/trial/TraineeAppRepo/TraineeAppRepo/myFirstApp/conf/test.conf,/home/knoldus/trial/TraineeAppRepo/TraineeAppRepo/myFirstApp/target/scala-2.11/classes/test.conf)[0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus/trial/TraineeAppRepo/TraineeAppRepo/myFirstApp/conf/evolutions,/home/knoldus/trial/TraineeAppRepo/TraineeAppRepo/myFirstApp/target/scala-2.11/classes/evolutions)[0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus/trial/TraineeAppRepo/TraineeAppRepo/myFirstApp/conf/application.conf,/home/knoldus/trial/TraineeAppRepo/TraineeAppRepo/myFirstApp/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus/trial/TraineeAppRepo/TraineeAppRepo/myFirstApp/conf/routes,/home/knoldus/trial/TraineeAppRepo/TraineeAppRepo/myFirstApp/target/scala-2.11/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus/trial/TraineeAppRepo/TraineeAppRepo/myFirstApp/conf/postgres.conf,/home/knoldus/trial/TraineeAppRepo/TraineeAppRepo/myFirstApp/target/scala-2.11/classes/postgres.conf)[0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus/trial/TraineeAppRepo/TraineeAppRepo/myFirstApp/conf/evolutions/default,/home/knoldus/trial/TraineeAppRepo/TraineeAppRepo/myFirstApp/target/scala-2.11/classes/evolutions/default)[0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus/trial/TraineeAppRepo/TraineeAppRepo/myFirstApp/conf/evolutions/default/1.sql,/home/knoldus/trial/TraineeAppRepo/TraineeAppRepo/myFirstApp/target/scala-2.11/classes/evolutions/default/1.sql)[0m

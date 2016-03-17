@@ -1,7 +1,7 @@
 
 // @GENERATOR:play-routes-compiler
-// @SOURCE:/home/knoldus/PlayAssignment2/EmployeePortal/conf/routes
-// @DATE:Thu Mar 17 11:50:15 IST 2016
+// @SOURCE:/home/knoldus/trial/TraineeAppRepo/TraineeAppRepo/myFirstApp/conf/routes
+// @DATE:Tue Mar 15 17:49:31 IST 2016
 
 
 package router {
